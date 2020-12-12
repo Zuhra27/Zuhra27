@@ -1,6 +1,4 @@
-### Hi there 👋
- 
-<h2> Hi, I'm Zuhra!</h2>
+<h2> Hi there, I'm Zuhra 👋</h2>
 <p><em>Software Enginner at <a href="https://www.rewe-digital.com/">Rewe Digital GmbH</a></p>
 
 [![Twitter: Zuhra](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FZuhraUjkanovic)](https://twitter.com/ZuhraUjkanovic)
