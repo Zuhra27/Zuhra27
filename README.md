@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cool stuffs :wink:
-- 🌱 I’m currently learning Python
+- 🌱 PHP, Python
 - 👯 I’m looking to collaborate on data engineering and machine learning projects
 - 💬 Ask me about anything
 <!--
