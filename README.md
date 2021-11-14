@@ -6,12 +6,6 @@
 [![GitHub Zuhra](https://img.shields.io/github/followers/Zuhra27?label=follow&style=social)](https://github.com/Zuhra27)
 ![](https://visitor-badge.glitch.me/badge?page_id=Zuhra27)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cool stuffs :wink:
-- 🌱 PHP, Python....
-- 👯 I’m looking to collaborate on data engineering and machine learning projects
-- 💬 Ask me about anything
 <!--
 **Zuhra27/Zuhra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
