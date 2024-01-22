@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Zuhra 👋</h2>
-<p><em>IT Consultant <a href="https://www.miltenyibiotec.com/DE-en/">Miltenyi Biotec B.V. & Co. KG</a></p>
+<p><em>IT Business Analyst <a href="https://www.rewe-digital.com/de">REWE Digital</a></p>
 
 [![Twitter: Zuhra](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FZuhraUjkanovic)](https://twitter.com/ZuhraUjkanovic)
 [![Linkedin: Zuhra](https://img.shields.io/badge/-zuhra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/zuhra-mehmedovic-883a1417/)
